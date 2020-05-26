@@ -1,8 +1,10 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace DayOffTheWeekApp.Core
 {
-    public class Class1
+    public class DayCalculator
     {
+
     }
 }

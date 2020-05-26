@@ -9,7 +9,6 @@ namespace DayOffTheWeek
         {
             Console.WriteLine("Hello World!");
 
-            var a = new Class1()
-        }
+            var guesser = new DayGuesser();        }
     }
 }
