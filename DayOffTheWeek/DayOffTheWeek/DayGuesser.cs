@@ -52,7 +52,7 @@ namespace DayOffTheWeek
 
         public void PrintDayOfTheWeek()
         {
-            Console.WriteLine("Obliczony dzień tygodnia to: "+ UserDayOfTheWeek);
+            Console.WriteLine("Obliczony dzień tygodnia to: "+ UserDayOfTheWeek.ToPolishString());
         }
 
     }
