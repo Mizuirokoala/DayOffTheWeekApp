@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DayOffTheWeekApp.Core;
+using System;
 
 namespace DayOffTheWeek
 {
@@ -7,6 +8,8 @@ namespace DayOffTheWeek
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            var a = new Class1()
         }
     }
 }
