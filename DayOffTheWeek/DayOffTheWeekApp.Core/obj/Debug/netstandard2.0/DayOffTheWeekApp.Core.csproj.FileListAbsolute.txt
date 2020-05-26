@@ -1,0 +1,9 @@
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\bin\Debug\netstandard2.0\DayOffTheWeekApp.Core.deps.json
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\bin\Debug\netstandard2.0\DayOffTheWeekApp.Core.dll
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\bin\Debug\netstandard2.0\DayOffTheWeekApp.Core.pdb
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\obj\Debug\netstandard2.0\DayOffTheWeekApp.Core.csprojAssemblyReference.cache
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\obj\Debug\netstandard2.0\DayOffTheWeekApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\obj\Debug\netstandard2.0\DayOffTheWeekApp.Core.AssemblyInfoInputs.cache
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\obj\Debug\netstandard2.0\DayOffTheWeekApp.Core.AssemblyInfo.cs
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\obj\Debug\netstandard2.0\DayOffTheWeekApp.Core.dll
+C:\Users\damian.kaminski\source\repos\DayOffTheWeekApp4\DayOffTheWeek\DayOffTheWeekApp.Core\obj\Debug\netstandard2.0\DayOffTheWeekApp.Core.pdb
