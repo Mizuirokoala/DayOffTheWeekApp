@@ -6,9 +6,12 @@ namespace DayOffTheWeek
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-
-            var guesser = new DayGuesser();        }
+        {           
+            var guesser = new DayGuesser();
+            guesser.IntroduceTheApplication();
+            guesser.AskUserForTheirDateOfBirth();
+            guesser.CalculateDayOfTheWeek();
+            guesser.PrintDayOfTheWeek();
+        }
     }
 }

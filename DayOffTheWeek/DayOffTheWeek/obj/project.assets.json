@@ -711,11 +711,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damian.kaminski\\Source\\Repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeek\\DayOffTheWeek.csproj",
+      "projectUniqueName": "C:\\Users\\damian.kaminski\\source\\repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeek\\DayOffTheWeek.csproj",
       "projectName": "DayOffTheWeek",
-      "projectPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeek\\DayOffTheWeek.csproj",
+      "projectPath": "C:\\Users\\damian.kaminski\\source\\repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeek\\DayOffTheWeek.csproj",
       "packagesPath": "C:\\Users\\damian.kaminski\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeek\\obj\\",
+      "outputPath": "C:\\Users\\damian.kaminski\\source\\repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeek\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -734,8 +734,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\damian.kaminski\\Source\\Repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeekApp.Core\\DayOffTheWeekApp.Core.csproj": {
-              "projectPath": "C:\\Users\\damian.kaminski\\Source\\Repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeekApp.Core\\DayOffTheWeekApp.Core.csproj"
+            "C:\\Users\\damian.kaminski\\source\\repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeekApp.Core\\DayOffTheWeekApp.Core.csproj": {
+              "projectPath": "C:\\Users\\damian.kaminski\\source\\repos\\DayOffTheWeekApp4\\DayOffTheWeek\\DayOffTheWeekApp.Core\\DayOffTheWeekApp.Core.csproj"
             }
           }
         }
